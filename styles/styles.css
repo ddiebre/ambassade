@@ -1,0 +1,442 @@
+body {
+    width: 100%;
+    height: 2500px;
+    background-color: gainsboro;
+}
+.entete {
+    width: 100%;
+    height: 200px;
+    background-color: white;
+}
+.amb{
+    position: relative;
+    bottom: 122px;
+    left: 47%;   
+}
+.logo{
+    position: relative;
+    left: 10%;
+     top: 13%;
+}
+.pmenu {
+    position: relative;
+    left: 70%;
+    top: -195px;
+}
+    .pmenu li {
+        display: inline;
+        margin-left: 2%;
+        position: relative;
+        top: -110px;
+
+
+    }
+    .search {
+      position: relative;
+      left: 75%;
+      bottom: 310px;
+      
+      
+    }
+    .police{
+        font-size: 2em ;
+        font-weight: bold ;
+        position: relative;
+        right: 145px;
+        bottom: 40px;
+        font-family: Marianne, latobold, Arial, Helvetica, sans-serif ;  
+    }
+    .soustitr {
+        position: relative;
+        bottom: 60px;
+        right: 147px;
+        font-size: 27px
+    }
+    .menu .gmenu li {
+        display: inline;
+        margin-left: 85px;
+        top: 5px;
+        
+    }
+    .menu  {
+        background-color: white;
+        width: 100%;
+        height: 50px;
+        border: solid 1px black;   
+    }   
+    .menu .gmenu {
+        position: relative;
+        top: 5px;
+    }
+    .scroll {
+        background-color: green;
+        width: 70%;
+        height: 301px;
+        margin-top: 46px;
+        position: relative;
+        left: 15%;   
+    }
+    .containerg {
+        background-color: gainsboro;
+        width: 70%;
+        height: 1128px;
+        margin-top: 46px;
+        position: relative;
+        left: 15%;        
+    }
+    .semicontner1 img {
+        margin-left: 10px;
+        width: 40%;
+        height:85%;
+        margin-top: 3%;
+    }
+    .semicontner1 {
+        background-color:white;
+        border: solid 1px black;
+        width: 65%;
+        height: 1128px;   
+    }
+    .semicontner1 .ruban {
+        background-color: rgb(206, 72, 72);
+        width: 100%;
+        height: 4px;
+        position: relative;
+        top: 2px;   
+    }
+    .semicontner1 .actu {
+        color: blue;
+        font-weight: bold;
+        margin-left: 2%;
+        font-size: 20px;
+        position: relative;
+        top: -12px;
+    }
+     .semicontner1 .chiffr {
+         color: blue;
+         position: relative;
+         left: 75%;
+         top: -45px;
+     }
+      .semicontner1 .ligne {
+        background-color:gainsboro;
+        width: 96%;
+        height: 1px;
+        position: relative;
+        top:-50px; 
+        left: 2%;     
+      }
+       .semicontner1 .carre1 {
+           width: 100%;
+           height: 200px;
+           position: relative;
+           top: -35px;
+       }
+
+       .semicontner1 .carre1 .tc1 {
+           position: relative;
+           top: -200px;
+           left: 45%;
+           width: 55%;
+           font-size: 13px;
+       }
+       .semicontner1 .date {
+           color: gainsboro;   
+       } 
+        .semicontner1 .titre {
+            font-weight: bold;
+            color:rgb(10, 10, 78);
+            font-family: Marianne, latobold, Arial, Helvetica, sans-serif ;  
+        }
+       .semicontner1 .carre2 {
+         width: 100%;
+        height: 200px;
+        position: relative;
+        top: -20px;   
+       }
+       .semicontner1 .carre2 .tc2 {
+        position: relative;
+        top: -230px;
+        left: 45%;
+        font-size: 13px;
+        width: 55%;
+    }
+        .semicontner1 .carre3 {
+            width: 100%;
+            height: 200px;
+            position: relative;
+            top: -5px;
+        }  
+            .semicontner1 .carre3 .tc3 {
+                position: relative;
+                top: -190px;
+                left: 45%;
+                font-size: 13px;
+                width: 55%;
+           
+        }
+         .semicontner1 .carre4 {
+            width: 100%;
+            height: 200px;
+            position: relative;
+            top: 10px;   
+         }
+         .semicontner1 .carre4 .tc4 {
+            position: relative;
+            top: -190px;
+            left: 45%;
+            font-size: 13px;
+            width: 55%;
+         }
+          .semicontner1 .carre5 {
+            width: 100%;
+            height: 200px;
+            position: relative;
+            top: 25px;    
+          }
+          .semicontner1 .carre5 .tc5 {
+            position: relative;
+            top: -190px;
+            left: 45%;
+            font-size: 13px;
+            width: 55%;
+          }
+    .semicontner2 {
+        
+        width: 30%;
+        height: 1128px;
+        position: relative;
+        left: 70%;
+        top: -1135px;
+    }
+   .semicontner2 .scontainer1 {
+    border: solid 2px white;
+       background-color: gainsboro;
+     width: 100%;
+     height: 200px; 
+    }
+    .semicontner2 .scontainer1 .stext1 {
+        margin-left: 2%;
+        color: blue;
+    }
+    .semicontner2 .scontainer2 .stext2 {
+        margin-left: 2%;
+        color: blue;
+       }
+    .semicontner2 .scontainer1 .titre {
+        margin-left: 5%;
+       }
+    .semicontner2 .scontainer2 {
+        border: solid 2px white;
+        background-color: gainsboro;
+        width: 100%;
+        height: 250px;
+        position: relative;
+        top: 15px;
+    }
+    .semicontner2 .scontainer3 {
+        width: 100%;
+        height:800px;
+        position: relative;
+        top: 0px;
+    }
+    .footer {
+        position: relative;
+        top: 30px;
+        background-color: gainsboro;   
+    }
+    .footer .fcontener { 
+        width: 70%;
+        height: 675px; 
+        margin-left: 15%;
+      
+    }
+    .footer .fcontener .titre {
+    font-family: open_sanssemibold, Arial, sans-serif;
+      color: blue;
+      font-size: 15px;
+      margin-left: 5%;
+    }
+
+    .footer .fcontener .bas1 {
+        background-color: white;  
+        width: 30%;
+        height: 200px; 
+        margin-left:0;
+        list-style: none;
+    }
+    .footer .fcontener .bas1 ul {
+        list-style: none;
+        color: rgb(19, 19, 112);
+        font-family: open_sansregular, Arial, sans-serif;
+    }
+    .footer .fcontener .bas1 .rbas1 {
+        background-color: blue;  
+        width: 100%;
+        height: 5px; 
+    }
+    .footer .fcontener .bas1 .rbas11 {
+        background-color: gainsboro;  
+        width: 100%;
+        height: 2px; 
+    }
+    .footer .fcontener .bas2 {
+        background-color: white;  
+        width: 30%;
+        height: 230px; 
+        position: relative;
+        top: -200px;
+        left: 33%;
+    }
+    .footer .fcontener .bas2 img {
+        background-color: white;  
+        width: 90%;
+        height: 68%; 
+        position: relative;
+        top: 10px;
+        left: 5%;
+    } 
+    .footer .fcontener .bas2 .rbas2 {
+        background-color: blue;  
+        width: 100%;
+        height: 5px; 
+    }
+    .footer .fcontener .bas2 .rbas22 {
+        background-color: gainsboro;  
+        width: 100%;
+        height: 2px;
+     }
+         .footer .fcontener .bas2 {
+        background-color: white;  
+        width: 30%;
+        height: 230px; 
+        position: relative;
+        top: -200px;
+        left: 33%;
+    }
+    .footer .fcontener .bas2 img {
+        background-color: white;  
+        width: 90%;
+        height: 68%; 
+        position: relative;
+        top: 10px;
+        left: 5%;
+    } 
+    .footer .fcontener .bas2 .rbas2 {
+        background-color: blue;  
+        width: 100%;
+        height: 5px; 
+    }
+    .footer .fcontener .bas2 .rbas22 {
+        background-color: gainsboro;  
+        width: 100%;
+        height: 2px;
+     }
+
+     .footer .fcontener .bas3 {
+        background-color: white;  
+        width: 30%;
+        height: 430px; 
+        position: relative;
+        top: -430px;
+        left: 66%;
+    }
+    .footer .fcontener .bas3 img {
+        background-color: white;  
+        width: 90%;
+        height: 45%; 
+        position: relative;
+        top: 10px;
+        left: 5%;
+    } 
+    .footer .fcontener .bas3 .rbas3 {
+        background-color: blue;  
+        width: 100%;
+        height: 5px; 
+    }
+    .footer .fcontener .bas3 .rbas33 {
+        background-color: gainsboro;  
+        width: 100%;
+        height: 2px;
+     }
+     .footer .fcontener .bas3 .textb3 {
+position: relative;
+top: -10px;
+margin-left: 5%;
+     }
+
+     .footer .fcontener .bas4 {
+        background-color: white;  
+        width: 30%;
+        height: 430px; 
+        position: relative;
+        top: -640px;
+        left: 0%;
+    } 
+    .footer .fcontener .bas4 .rbas4 {
+        background-color: blue;  
+        width: 100%;
+        height: 5px; 
+    }
+    .footer .fcontener .bas4 .rbas44 {
+        background-color: gainsboro;  
+        width: 100%;
+        height: 2px;
+     }
+     .footer .fcontener .bas4 p{
+margin-left: 5%;
+     }
+     .footer .fcontener .bas4 .titre{
+        color: rgb(19, 19, 112); 
+     }
+
+     .footer .fcontener .bas5 {
+        background-color: white;  
+        width: 30%;
+        height: 300px; 
+        position: relative;
+        top: -1040px;
+        left: 33%;
+    } 
+    .footer .fcontener .bas5 .rbas5 {
+        background-color: blue;  
+        width: 100%;
+        height: 5px; 
+    }
+    .footer .fcontener .bas5 .rbas55 {
+        background-color: gainsboro;  
+        width: 100%;
+        height: 2px;
+     }
+     .footer .fcontener .bas5 .titre{
+        color: rgb(19, 19, 112); 
+     }
+.foot {
+    background-color: rgb(12, 12, 12);
+    width: 100%;
+    height: 250px;
+} 
+.foot {
+    display: flex;
+justify-content: space-around;
+color:white;
+}
+.foot ul li {
+list-style: none;
+}
+.foot .lignewhite {
+    background-color: white;
+    width: 100%;
+    height: 2px;
+    }
+    .foot .lw1 {
+        display: flex;
+    justify-content: space-around;
+    color:white;
+    }
+    .foot .lw2 {
+        display: flex;
+    justify-content: space-around;
+    color:white;
+    }
+
+
